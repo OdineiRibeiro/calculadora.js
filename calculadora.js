@@ -52,3 +52,5 @@ function calculadora(operation, numA, numB){
       main()
   }
 }
+
+main();
